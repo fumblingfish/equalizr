@@ -1,0 +1,24 @@
+body{
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+	background: #d0d0d0;
+}
+.grid{
+	overflow: hidden;
+}
+
+.unit{
+	float: left;
+	width: 25%;
+}
+
+.box{
+	background: #fff;
+}
+
+.block{
+    background: #d1deff;
+}
+
+img{
+	width: 100%;
+}
