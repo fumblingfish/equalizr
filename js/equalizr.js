@@ -1,10 +1,6 @@
 (function($) {
     var Equalizr = window.Equalizr || {};
 
-    Array.max = function(array) {
-        return Math.max.apply(Math, array);
-    };
-
     Equalizr = function(element, settings) {
         var self = this,
             defaults = {
